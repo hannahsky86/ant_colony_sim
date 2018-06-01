@@ -1,4 +1,4 @@
-
+package AntColonySimulation;
 
 public class Ant 
 {
